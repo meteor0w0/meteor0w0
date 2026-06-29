@@ -1,5 +1,5 @@
 
-## Hi I'm meteor, an recreational coder.
+## Hi I'm meteor, a recreational coder.
 
 
 <!--
